@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "ejs": "^2.5.9",
-    "express": "^4.16.3",
+    "express": "^4.17.1",
     "request": "^2.85.0",
     "tape": "^4.9.0"
   },
@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jomaoppa/node-js-template.git"
+    "url": "git+https://github.com/waynege0524/node-js-template.git"
   },
   "keywords": [
     "node"
   ],
-  "author": "Joma",
+  "author": "Wayne",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jomaoppa/node-js-template/issues"
+    "url": "https://github.com/waynege0524/node-js-template/issues"
   },
-  "homepage": "https://github.com/jomaoppa/node-js-template#readme"
+  "homepage": "https://github.com/waynege0524/node-js-template"
 }
